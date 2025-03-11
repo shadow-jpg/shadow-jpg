@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shadow-jpg
-- 👀 I’m interested in web developing,athletics,workout,imrpovisation,reading
+- 👀 I’m interested in web developing
 - 🌱 I’m currently learning C#, Java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://t.me/Shad0w_born
